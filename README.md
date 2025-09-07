@@ -57,6 +57,19 @@ The system operates in a closed loop, ensuring seamless communication between th
     * If no occupancy is detected for a set period, the NodeMCU automatically turns OFF all lights and fans.
     * If the temperature rises above a predefined threshold, the fan is automatically switched ON.
 
+
+---
+## 📂 Project Structure
+
+```bash
+Classroom-Automation/
+├── arduino_code/main/        # NodeMCU Arduino main code
+├── firebase-setup/           # Images of Real-time Database structure
+├── images/                   # Circuit diagrams and project photos
+├── laser-cutting-stencil/    # SVG Stencil for the Laser-Cut project box
+├── mobile-app-setup-mit/     # Screenshots of MIT App Inventor blocks
+└── README.md
+---
 ---
 ## 🔌 Circuit Diagram
 
