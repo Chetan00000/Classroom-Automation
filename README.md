@@ -40,9 +40,9 @@
 * **Power:** 5V Power Supply Unit
 
 ### Software & Cloud
-* **Firmware Development:** ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-* **Database:** ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) (Realtime Database)
-* **Mobile App:** ![MIT App Inventor](https://img.shields.io/badge/MIT_App_Inventor-F87432?style=for-the-badge&logo=appveyor&logoColor=white)
+* **Firmware Development:** Arduino IDE
+ **Database:** Firebase
+* **Mobile App:** MIT App Inventor
 
 ---
 
@@ -72,17 +72,14 @@ Classroom-Automation/
 └── README.md
 
 
-
 ---
 
 ## 🔌 Circuit Diagram
 
 The circuit connects the NodeMCU with the DHT11 sensor, PIR sensor, and relay modules for controlling standard classroom appliances.
 
-<!-- यहाँ सर्किट डायग्राम की इमेज डालें -->
-<p align="center">
-  <img src="URL_TO_YOUR_CIRCUIT_DIAGRAM" alt="Circuit Diagram" width="500"/>
-</p>
+<img width="752" height="895" alt="image" src="https://github.com/user-attachments/assets/fbfe0f11-732c-4032-9bb5-d02773cb2f85" />
+
 
 ---
 
