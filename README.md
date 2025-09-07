@@ -11,10 +11,7 @@
 
 <br>
 
-<!-- यहाँ आप अपने प्रोजेक्ट की एक तस्वीर या GIF डाल सकते हैं -->
-<p align="center">
-  <img src="URL_TO_YOUR_PROJECT_IMAGE_OR_GIF" alt="Project Demo" width="600"/>
-</p>
+
 
 ---
 
