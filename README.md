@@ -59,7 +59,9 @@ The system operates in a closed loop, ensuring seamless communication between th
 
 ---
 
-## 📂 Project Structure
+### 📂 Project Structure
+
+```bash
 Classroom-Automation/
 ├── arduino_code/main/        # NodeMCU Arduino main code
 ├── firebase-setup/           # Images of Real-time Database structure
@@ -67,7 +69,6 @@ Classroom-Automation/
 ├── laser-cutting-stencil/    # SVG Stencil for the Laser-Cut project box
 ├── mobile-app-setup-mit/     # Screenshots of MIT App Inventor blocks
 └── README.md
-
 
 ---
 
