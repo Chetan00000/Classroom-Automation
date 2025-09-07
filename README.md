@@ -59,7 +59,7 @@ The system operates in a closed loop, ensuring seamless communication between th
 
 ---
 
-### 📂 Project Structure
+## 📂 Project Structure
 
 ```bash
 Classroom-Automation/
