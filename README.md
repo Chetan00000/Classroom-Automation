@@ -72,29 +72,5 @@ Classroom-Automation/
 
 ---
 
-## 🔌 Circuit Diagram
-
-The circuit connects the NodeMCU with the DHT11 sensor, PIR sensor, and relay modules for controlling standard classroom appliances.
-
-<img width="752" height="895" alt="image" src="https://github.com/user-attachments/assets/fbfe0f11-732c-4032-9bb5-d02773cb2f85" />
 
 
----
-
-## 📈 Future Improvements
-
--   [ ] **Voice Control:** Integration with voice assistants like Google Assistant or Amazon Alexa.
--   [ ] **Data Analytics:** A cloud-based dashboard for visualizing energy usage patterns over time.
--   [ ] **Sustainability:** Integration with solar power to make the system even more eco-friendly.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 👨‍💻 Author
-
-**Chetan Chauhan**
