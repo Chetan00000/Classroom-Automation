@@ -59,18 +59,6 @@ The system operates in a closed loop, ensuring seamless communication between th
 
 
 ---
-## 📂 Project Structure
-
-```bash
-Classroom-Automation/
-├── arduino_code/main/        # NodeMCU Arduino main code
-├── firebase-setup/           # Images of Real-time Database structure
-├── images/                   # Circuit diagrams and project photos
-├── laser-cutting-stencil/    # SVG Stencil for the Laser-Cut project box
-├── mobile-app-setup-mit/     # Screenshots of MIT App Inventor blocks
-└── README.md
----
----
 ## 🔌 Circuit Diagram
 
 The circuit connects the NodeMCU with the DHT11 sensor, PIR sensor, and relay modules for controlling standard classroom appliances.
@@ -110,7 +98,7 @@ Classroom-Automation/
 ├── mobile-app-setup-mit/     # Screenshots of MIT App Inventor blocks
 └── README.md
 
----
+
 
 
 
